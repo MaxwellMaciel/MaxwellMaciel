@@ -3,8 +3,8 @@
 Welcome to my GitHub profile! I'm a passionate tech enthusiast studying **Information Technology** at the **Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), Maranguape campus**.
 
 ## 🔥 GitHub Stats
-![Maxwell's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuNomeDeUsuario&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuNomeDeUsuario&layout=compact&theme=radical)
+![Maxwell's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxwellMaciel&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellMaciel&layout=compact&theme=radical)
 
 ## 🛠️ Technologies & Tools
 ![Java](https://img.icons8.com/color/48/000000/java.png)
