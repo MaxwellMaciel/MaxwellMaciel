@@ -43,7 +43,7 @@ Merci d'avoir visité mon profil ! J'ai hâte de me connecter avec vous.
 
 #### 🌐 Choisissez votre langue :
 [🇧🇷 Portugais](./README-pt.md)  
-[🇺🇸 Anglais](./README-en.md)  
+[🇺🇸 Anglais](./README.md)  
 [🇪🇸 Espagnol](./README-es.md)  
 [🇨🇳 Chinois](./README-zh.md)  
 [🇩🇪 Allemand](./README-de.md)  
