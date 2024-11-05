@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate tech enthusiast studying **Inform
 ![Python](https://img.icons8.com/color/48/000000/python.png)
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
 
 ## 🌐 Connect with Me
 [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://instagram.com/maxsksr)
