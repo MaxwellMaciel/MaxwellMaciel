@@ -43,7 +43,6 @@ Thank you for visiting my profile! Looking forward to connecting with you.
 
 #### 🌐 Choose your language:
 [🇧🇷 **Português**](./README-pt.md)  
-[🇺🇸 **English**](./README-en.md)  
 [🇪🇸 **Español**](./README-es.md)  
 [🇫🇷 **Français**](./README-fr.md)  
 [🇨🇳 **中文**](./README-zh.md)  
