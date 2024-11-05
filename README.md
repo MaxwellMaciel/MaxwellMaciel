@@ -1,38 +1,74 @@
-# Hello! I'm Maxwell Maciel de Sousa 🌟
+# Olá! Eu sou Maxwell Maciel de Sousa 🌟
 
-Welcome to my GitHub profile! I'm a passionate tech enthusiast currently studying **Information Technology** at the **Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), Maranguape campus**.
+Bem-vindo ao meu perfil do GitHub! Sou um entusiasta de tecnologia, atualmente estudando **Tecnologia da Informação** no **Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), campus Maranguape**.
 
-## 🎓 About Me
-- 📚 I’m focused on building a strong foundation in programming and web development, constantly striving to expand my knowledge.
+## 🎓 Sobre Mim
+- 📚 Estou focado em construir uma base sólida em programação e desenvolvimento web, buscando constantemente expandir meu conhecimento.
 
-## 🌱 What I'm Learning
-Here are some of the technologies I’m currently studying:
+## 🌱 O que estou aprendendo
+Aqui estão algumas das tecnologias que estou estudando:
 - **Java**
 - **Python**
 - **HTML**
 - **CSS**
 
-## 🔥 GitHub Stats
-![Maxwell's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxwellMaciel&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellMaciel&layout=compact&theme=radical)
+## 🔥 Estatísticas do GitHub
+![Estatísticas do GitHub do Maxwell](https://github-readme-stats.vercel.app/api?username=MaxwellMaciel&show_icons=true&theme=radical)
+![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellMaciel&layout=compact&theme=radical)
 
-## 🛠️ Technologies & Tools (Studying)
+## 🛠️ Tecnologias & Ferramentas (Estudando)
 ![Python](https://img.icons8.com/color/48/000000/python.png) ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
 
-## 🎨 Interests
-When I'm not coding, you can find me enjoying:
-- ✏️ Drawing
-- 🎶 Music
-- 🎨 Art
+## 🎨 Interesses
+Quando não estou programando, você pode me encontrar:
+- ✏️ Desenhando
+- 🎶 Escutando Música
+- 🎨 Apreciando Arte
 
-## 📫 How to Reach Me
-Feel free to reach out if you'd like to collaborate, share ideas, or just have a chat!
+## 📫 Como me Encontrar
+Sinta-se à vontade para entrar em contato se quiser colaborar, compartilhar ideias ou apenas bater um papo!
 - **Email:** [sousamaciel@aluno.ifce.edu.br](mailto:sousamaciel@aluno.ifce.edu.br)
 - **Instagram:** [@maxsksr](https://www.instagram.com/maxsksr/profilecard/?igsh=anczOW9iZ3pkdmRq)
 
-## 🌐 Connect with Me
+## 🌐 Conecte-se Comigo
 [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://instagram.com/maxsksr) [![Gmail](https://img.icons8.com/fluency/48/000000/gmail.png)](mailto:sousamaciel@aluno.ifce.edu.br)
 
 ---
 
-Thank you for visiting my profile! Looking forward to connecting with you.
+Obrigado por visitar meu perfil! Estou ansioso para me conectar com você.
+
+---
+
+### 🌎 Versões em Outros Idiomas
+
+#### 🇺🇸 English
+[Link to English version](#) 
+
+#### 🇪🇸 Español
+[Link to Spanish version](#) 
+
+#### 🇫🇷 Français
+[Link to French version](#)
+
+#### 🇨🇳 中文 (Chinese)
+[Link to Chinese version](#)
+
+#### 🇩🇪 Deutsch (German)
+[Link to German version](#)
+
+#### 🇮🇹 Italiano (Italian)
+[Link to Italian version](#)
+
+---
+
+### Bandeiras dos Idiomas Mais Falados no Mundo:
+
+![Bandeira do Brasil](https://img.icons8.com/ios-filled/50/000000/brazil.png) **Português**  
+![Bandeira dos EUA](https://img.icons8.com/ios-filled/50/000000/usa.png) **English**  
+![Bandeira da Espanha](https://img.icons8.com/ios-filled/50/000000/spain.png) **Español**  
+![Bandeira da França](https://img.icons8.com/ios-filled/50/000000/france.png) **Français**  
+![Bandeira da China](https://img.icons8.com/ios-filled/50/000000/china.png) **中文 (Chinese)**  
+![Bandeira da Alemanha](https://img.icons8.com/ios-filled/50/000000/germany.png) **Deutsch**  
+![Bandeira da Itália](https://img.icons8.com/ios-filled/50/000000/italy.png) **Italiano**  
+
+---
