@@ -2,6 +2,20 @@
 
 Welcome to my GitHub profile! I'm a passionate tech enthusiast currently studying **Information Technology** at the **Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), Maranguape campus**.
 
+---
+
+### 🌎 Versions in Other Languages
+
+#### 🌐 Choose your language:
+[🇧🇷 **Português**](./README-pt.md)  
+[🇪🇸 **Español**](./README-es.md)  
+[🇫🇷 **Français**](./README-fr.md)  
+[🇨🇳 **中文**](./README-zh.md)  
+[🇩🇪 **Deutsch**](./README-de.md)  
+[🇮🇹 **Italiano**](./README-it.md)
+
+---
+
 ## 🎓 About Me
 - 📚 I’m focused on building a strong foundation in programming and web development, constantly striving to expand my knowledge.
 
@@ -36,15 +50,3 @@ Feel free to reach out if you'd like to collaborate, share ideas, or just have a
 ---
 
 Thank you for visiting my profile! Looking forward to connecting with you.
-
----
-
-### 🌎 Versions in Other Languages
-
-#### 🌐 Choose your language:
-[🇧🇷 **Português**](./README-pt.md)  
-[🇪🇸 **Español**](./README-es.md)  
-[🇫🇷 **Français**](./README-fr.md)  
-[🇨🇳 **中文**](./README-zh.md)  
-[🇩🇪 **Deutsch**](./README-de.md)  
-[🇮🇹 **Italiano**](./README-it.md)
