@@ -43,7 +43,7 @@ Grazie per aver visitato il mio profilo! Non vedo l'ora di connettermi con te.
 
 #### 🌐 Scegli la tua lingua:
 [🇧🇷 Portoghese](./README-pt.md)  
-[🇺🇸 Inglese](./README-en.md)  
+[🇺🇸 Inglese](./README.md)  
 [🇪🇸 Spagnolo](./README-es.md)  
 [🇫🇷 Francese](./README-fr.md)  
 [🇨🇳 Cinese](./README-zh.md)  
