@@ -43,7 +43,7 @@
 
 #### 🌐 选择您的语言：
 [🇧🇷 葡萄牙语](./README-pt.md)  
-[🇺🇸 英语](./README-en.md)  
+[🇺🇸 英语](./README.md)  
 [🇪🇸 西班牙语](./README-es.md)  
 [🇫🇷 法语](./README-fr.md)  
 [🇩🇪 德语](./README-de.md)
