@@ -43,7 +43,7 @@ Danke, dass du mein Profil besucht hast! Ich freue mich darauf, mit dir in Konta
 
 #### 🌐 Wählen Sie Ihre Sprache:
 [🇧🇷 Portugiesisch](./README-pt.md)  
-[🇺🇸 Englisch](./README-en.md)  
+[🇺🇸 Englisch](./README.md)  
 [🇪🇸 Spanisch](./README-es.md)  
 [🇫🇷 Französisch](./README-fr.md)  
 [🇨🇳 Chinesisch](./README-zh.md)  
