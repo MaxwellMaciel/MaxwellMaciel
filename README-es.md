@@ -43,7 +43,7 @@ No dudes en ponerte en contacto si deseas colaborar, compartir ideas o simplemen
 
 #### 🌐 Elige tu idioma:
 [🇧🇷 Portugués](./README-pt.md)  
-[🇺🇸 Inglés](./README-en.md)  
+[🇺🇸 Inglés](./README.md)  
 [🇫🇷 Francés](./README-fr.md)  
 [🇨🇳 Chino](./README-zh.md)  
 [🇩🇪 Alemán](./README-de.md)  
