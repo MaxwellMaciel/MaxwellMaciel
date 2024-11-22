@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate tech enthusiast currently studyin
 ---
 
 ## 🎓 About Me
-- 📚 I’m focused on building a strong foundation in programming and web development, constantly striving to expand my knowledge.
+- 📚 I’m focused on building a strong foundation in programming and web development, constantly striving to expand my knowledge. I also enjoy playing volleyball and have a passion for fashion.
 
 ## 🌱 What I'm Learning
 Here are some of the technologies I’m currently studying:
